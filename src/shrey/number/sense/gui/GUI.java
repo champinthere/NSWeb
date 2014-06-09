@@ -25,10 +25,13 @@ import javax.swing.JTextField;
 import javax.swing.ListModel;
 
 import shrey.number.sense.Trick;
+import shrey.number.sense.TrickCollection;
 import shrey.number.sense.latex.Latex;
 
 public class GUI extends JFrame {
 	
+
+	private static final long serialVersionUID = -1267306349805550644L;
 	public static final String FILE= "Number_Sense";
 	public static final String LTDIR = "/Users/shreyas/Programming/NS/";
 	public static final String OUTPUT_DIR = "/Users/shreyas/Programming/NS/";

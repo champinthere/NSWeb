@@ -1,4 +1,4 @@
-package shrey.number.sense.gui;
+package shrey.number.sense;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

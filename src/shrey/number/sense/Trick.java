@@ -3,7 +3,6 @@ package shrey.number.sense;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-import shrey.number.sense.gui.TrickCollection;
 import shrey.number.sense.latex.Latex;
 
 /**

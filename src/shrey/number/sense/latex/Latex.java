@@ -18,6 +18,15 @@ public class Latex {
 		return s;
 	}
 
+	/**
+	 * @param inputDir
+	 *            Location where .ltx file is located
+	 * @param outputDir
+	 *            Location where .pdf file should be placed
+	 * @param fileName
+	 *            prefix of .ltx : what file is called
+	 * @deprecated
+	 */
 	public static final void compile(String inputDir, String outputDir,
 			String fileName) {
 		String toRun = "/usr/texbin/pdflatex -output-directory=" + outputDir

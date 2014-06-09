@@ -3,7 +3,6 @@ package shrey.number.sense;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-import shrey.number.sense.gui.TrickCollection;
 import shrey.number.sense.latex.Latex;
 
 public class ClassMain {
